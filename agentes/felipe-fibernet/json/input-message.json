@@ -1,0 +1,19 @@
+// postman request POST 
+// 'https://{{meudominio.com.br}}/webservice/v1/su_mensagens' \
+{
+   "id_cliente": "",
+   "assunto_ticket": "",
+   "mensagem_ticket": "", // Descrição do atendimento (problema)
+   "titulo": "",
+   "data": "",
+   "id_resposta": "",
+   "mensagem": "", // Interação
+   "visibilidade_mensagens": "",
+   "operador": "",
+   "su_status": "EP", // Status do atendimento
+   "id_evento_status": "",
+   "id_ticket": "", // Número do atendimento
+   "existe_pendencia_externa": "",
+   "id_su_diagnostico": "",
+   "ultima_atualizacao": ""
+}
